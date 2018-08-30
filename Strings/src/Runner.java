@@ -23,9 +23,7 @@ public class Runner {
 					theLongest = s;
 					
 				}
-				
 			}
-		
 		}
 		
 		System.out.println(theLongest);
